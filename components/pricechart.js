@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
 import PriceChartDash from "./pricechartdashboard";
-// import "../styles/pricechart.module.css";
 import '../styles/pricechart.module.css'
 
 const PriceChart = () => {
